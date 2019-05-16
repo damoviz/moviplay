@@ -9,7 +9,7 @@
 <li>En el Home veras las Secciones de Popular, Upcoming y Toprated de peliculas</li>
 <li>Ver el datelle de cada pelicula</li>
 <li>Ver el trailer de la pelicula si la api la tiene cargada.</li>
-<li>Busquedador de peliculas por nombre o elegir la categoria</li>
+<li>Buscador de peliculas por nombre o elegir la categoria</li>
 
 
 ## Vistas
@@ -18,7 +18,7 @@ La App se compone de 4 vistas principales:
 <li><strong>app/screens/HomeScreen</strong> :Contiene la pantalla principal de la app, mostrando las 3 secciones Popular, Upcoming y Toprated(se deslizan Horizontalmente cada una), un Header y un Tabbar.</li>
 <li><strong>app/screens/MovieDetailsScreen</strong> :Muestra todo el detalle de la pelicula, para ver todas las imagenes dar clic en la principal y se puede ver el trailer de la pelicula dando clic en el icono de play.</li>
 <li><strong>app/screens/MovieListScreen</strong> :Para ver todas las peliculas de una categoria de una forma mas amplia, dar clic en ver todas.</li>
-<li><strong>app/screens/SearchScreen</strong> :Busquedador de peliculas por nombre o elegir la categoria.</li>
+<li><strong>app/screens/SearchScreen</strong> :Buscador de peliculas por nombre o elegir la categoria.</li>
 
 ##Negocio
 <br>
