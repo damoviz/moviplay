@@ -7,18 +7,18 @@
 
 ## Funcionalidades de la App.
 <li>En el Home veras las Secciones de Popular, Upcoming y Toprated de peliculas</li>
-<li>Ver el datelle de cada pelicula</li>
-<li>Ver el trailer de la pelicula si la api la tiene cargada.</li>
-<li>Buscador de peliculas por nombre o elegir la categoria</li>
+<li>Ver el detallé de cada película</li>
+<li>Ver el trailer de la película si la api la tiene cargada.</li>
+<li>Buscador de películas por nombre o elegir la categoría</li>
 
 
 ## Vistas
 La App se compone de 4 vistas principales:
 <br>
 <li><strong>app/screens/HomeScreen</strong> :Contiene la pantalla principal de la app, mostrando las 3 secciones Popular, Upcoming y Toprated(se deslizan Horizontalmente cada una), un Header y un Tabbar.</li>
-<li><strong>app/screens/MovieDetailsScreen</strong> :Muestra todo el detalle de la pelicula, para ver todas las imagenes dar clic en la principal y se puede ver el trailer de la pelicula dando clic en el icono de play.</li>
-<li><strong>app/screens/MovieListScreen</strong> :Para ver todas las peliculas de una categoria de una forma mas amplia, dar clic en ver todas.</li>
-<li><strong>app/screens/SearchScreen</strong> :Buscador de peliculas por nombre o elegir la categoria.</li>
+<li><strong>app/screens/MovieDetailsScreen</strong> :Muestra todo el detalle de la película, para ver todas las imagenes dar clic en la principal y se puede ver el trailer de la película dando clic en el icono de play.</li>
+<li><strong>app/screens/MovieListScreen</strong> :Para ver todas las películas de una categoría de una forma mas amplia, dar clic en ver todas.</li>
+<li><strong>app/screens/SearchScreen</strong> :Buscador de películas por nombre o elegir la categoría.</li>
 
 ##Negocio
 <br>
@@ -26,19 +26,19 @@ La App se compone de 4 vistas principales:
 
 ## Capa Persistencia
 <br>
-<li><strong>React</strong> guarda automaticamente en su estado todo lo que hayas cargado al momento de tener conexion, luego puedes entrar sin conexion y hara una especie de offline automatico.</li>
+<li><strong>React</strong> guarda automaticamente en su estado todo lo que hayas cargado al momento de tener conexion, luego puedes entrar sin conexion y hará una especie de offline automático.</li>
 
 --------------------------------------
 
 # Preguntas Realizadas
 <strong>1. En qué consiste el principio de responsabilidad única? Cuál es su propósito?</strong>
 <br>
-Garantizar que cada clase o modulo haga una unica función o una sola responsabilidad, esto hace que tu aplicación sea de calidad, haciendola legible y mantenible en el tiempo.
+Garantizar que cada clase o modulo haga una única función o una sola responsabilidad, esto hace que tu aplicación sea de calidad, haciéndola legible y mantenible en el tiempo.
 <br>
 <strong>2. Qué características tiene, según su opinión, un “buen” código o código limpio? </strong>
 <br>
-- Facil de leer.
-- Facil de mantener.
+- Fácil de leer.
+- Fácil de mantener.
 - Hacer un buen testeo.
 
 
