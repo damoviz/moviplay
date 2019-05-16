@@ -3,7 +3,7 @@
 ![movieapp-screenshots_big_iphone_](https://github.com/damoviz/moviplay/blob/master/capture.png)
 
 ### Download APK file
- - [Download from Google Drive - v2.2.1](https://drive.google.com/file/d/17tAlMFMA7r6HOHXcj2j63w4bxsB58TVN/view?usp=sharing)
+ - [Download from Google Drive - v1.0.0](https://drive.google.com/file/d/17tAlMFMA7r6HOHXcj2j63w4bxsB58TVN/view?usp=sharing)
 
 ## Funcionalidades de la App.
 <li>En el Home veras las Secciones de Popular, Upcoming y Toprated de peliculas</li>
